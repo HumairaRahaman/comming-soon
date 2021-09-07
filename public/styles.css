@@ -599,7 +599,7 @@ video {
 .font-bold {
 	font-weight: 700;
 }
-.text-purple-700 {
+.text-pink-700 {
 	--tw-text-opacity: 1;
-	color: rgba(109, 40, 217, var(--tw-text-opacity));
+	color: rgba(190, 24, 93, var(--tw-text-opacity));
 }
